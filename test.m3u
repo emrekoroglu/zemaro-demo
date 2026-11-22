@@ -1,0 +1,17 @@
+#EXTM3U
+# ZEMARO Player review demo playlist. Synthetic test videos generated with ffmpeg
+# (color bars, test patterns, counters, sine tones). No real channels or third-party content.
+#EXTINF:-1 tvg-id="zemaro-demo-live-1" tvg-name="Test Pattern 1 - Color Bars" tvg-logo="logos/live-1.png" tvg-type="live" group-title="Demo Live",Test Pattern 1 - Color Bars
+media/live-1/index.m3u8
+#EXTINF:-1 tvg-id="zemaro-demo-live-2" tvg-name="Test Pattern 2 - Moving Pattern" tvg-logo="logos/live-2.png" tvg-type="live" group-title="Demo Live",Test Pattern 2 - Moving Pattern
+media/live-2/index.m3u8
+#EXTINF:-1 tvg-id="zemaro-demo-live-3" tvg-name="Test Pattern 3 - Counter" tvg-logo="logos/live-3.png" tvg-type="live" group-title="Demo Live",Test Pattern 3 - Counter
+media/live-3/index.m3u8
+#EXTINF:-1 tvg-name="Synthetic Test Film A" tvg-logo="logos/movie-1.png" tvg-type="movie" group-title="Demo Movies",Synthetic Test Film A
+media/movie-1.mp4
+#EXTINF:-1 tvg-name="Synthetic Test Film B" tvg-logo="logos/movie-2.png" tvg-type="movie" group-title="Demo Movies",Synthetic Test Film B
+media/movie-2.mp4
+#EXTINF:-1 tvg-name="Synthetic Test Series S01E01" tvg-logo="logos/series.png" tvg-type="series" group-title="Demo Series",Synthetic Test Series S01E01
+media/series-s01e01.mp4
+#EXTINF:-1 tvg-name="Synthetic Test Series S01E02" tvg-logo="logos/series.png" tvg-type="series" group-title="Demo Series",Synthetic Test Series S01E02
+media/series-s01e02.mp4
